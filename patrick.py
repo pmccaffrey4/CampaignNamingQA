@@ -1,7 +1,7 @@
 # about me
 
 name = 'Patrick'
-age = '27'
+age = '28'
 hobbies = ['Hanging w/ Friends & Family', 'Watching dope tv shows', 'Singing in the mirror']
 
 if __name__ == '__main__':
