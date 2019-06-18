@@ -14,12 +14,13 @@
 
 2. Open your Terminal or Command Prompt Windows, navigate where you would like this project to live.
 
-I saved this on my Desktop, to get there through command line.
+	> I saved this on my Desktop, to get there through command line.
 
-**Linux/Mac:**
-```cd ~/Desktop/```
-**Windows:**
-```cd Desktop```
+ 	**Linux/Mac:**
+	 ```cd ~/Desktop/```
+	
+	**Windows:**
+	```cd Desktop```
 
 
 3. Clone the repo to your Desktop.
