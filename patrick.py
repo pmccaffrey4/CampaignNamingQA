@@ -2,7 +2,7 @@
 
 name = 'Patrick'
 age = '27'
-hobbies = ['Hanging w/ Friends & Family', 'Watching dope tv shows', 'Singing in the mirror']
+hobbies = ['Hanging w/ Friends & Family', 'Watching dope tv shows', 'Singing in the mirror', 'Coding']
 
 if __name__ == '__main__':
 
