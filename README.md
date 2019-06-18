@@ -28,5 +28,8 @@ I saved this on my Desktop, to get there through command line.
 ```git clone "link copied from above"```
 
 
-## For Windows you need to download the git manually:
+
+## For Windows 
 [Window git download](https://git-scm.com/download/win)
+[Window Terminal cheat sheet](https://www.thehackr.com/windows-cmd-cheat-sheet/)
+
