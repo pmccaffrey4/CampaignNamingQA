@@ -55,4 +55,9 @@ I saved this on my Desktop, to get there through command line.
 
 
 
+## For Windows 
+[Window git download](https://git-scm.com/download/win)
+
+
+[Window Terminal cheat sheet](https://www.thehackr.com/windows-cmd-cheat-sheet/)
 
