@@ -1,6 +1,6 @@
 # about me
 
-name = 'Tian'
+name = 'Tian Shan'
 age = '23'
 hobbies = ['Watching movies', 'Traveling']
 
